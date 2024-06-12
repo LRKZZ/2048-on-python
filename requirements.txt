@@ -1,0 +1,2 @@
+#когда проект запустишь, напишешь в консоли pip install -r requirements.txt
+pygame
